@@ -18,6 +18,10 @@
 			
 			console.log('.scroll-container init');
 			
+			//$(block.attr('data-target')).height($(window).height());
+			//target.height($(window).height());
+			//otarget.height($(window).height());
+			
 			if(block.hasClass('horizontal')) {
 				type = 0;
 				
