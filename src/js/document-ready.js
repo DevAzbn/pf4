@@ -1,3 +1,5 @@
+'use strict';
+
 [snp tpl="src/_/concat.plugin.js" ]
 
 var iface = {
